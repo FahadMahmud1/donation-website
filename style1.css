@@ -11,14 +11,12 @@ body {
 
 section {
     margin: 0;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 
 }
 
 .container {
     padding-top: 200px;
-
-
     text-align: center;
 
 
@@ -28,7 +26,6 @@ section {
     font-size: 60px;
     color: white;
     margin: 0;
-
     letter-spacing: 2px;
 
 }
@@ -37,9 +34,7 @@ section {
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     color: white;
-
     text-align: center;
-
     margin-bottom: 50px;
 
 }
@@ -49,10 +44,9 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
     width: 1511px;
-    height: 600px;
+    height: 700px;
     border: 1px solid #000000;
     color: #000000;
-    padding-bottom: 150px;
     text-align: center;
 
 
@@ -120,7 +114,10 @@ section {
 }
 
 .fhd {
-    border: 1px solid #DADADA;
+
+
+    background-color: #DADADA;
+    padding: 0.7px;
     margin-left: 26%;
     margin-right: 27%;
 
