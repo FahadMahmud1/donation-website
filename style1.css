@@ -26,7 +26,10 @@ section {
     font-size: 60px;
     color: white;
     margin: 0;
-    letter-spacing: 2px;
+    padding: 0;
+
+    letter-spacing: 2.5px;
+    word-spacing: 1px;
 
 }
 
@@ -44,7 +47,7 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
     width: 1511px;
-    height: 700px;
+    height: 720px;
     border: 1px solid #000000;
     color: #000000;
     text-align: center;
@@ -64,6 +67,10 @@ section {
     font-weight: 600;
     font-size: 20px;
 
+}
+
+.second {
+    text-align: center;
 }
 
 .second h1 {
@@ -88,6 +95,7 @@ section {
 
     margin-left: 27%;
     margin-right: 23%;
+    margin-bottom: 25px;
 
 }
 
@@ -113,15 +121,36 @@ section {
     color: #FF5959;
 }
 
+.other {
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+
+.other input {
+    border: none;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    color: #B3B3B3;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+
+}
+
 .fhd {
 
 
     background-color: #DADADA;
-    padding: 0.7px;
+    padding: 0.82px;
     margin-left: 26%;
     margin-right: 27%;
+    margin-bottom: 45px;
 
 }
+
+
 
 .align {
     text-align: center;
@@ -183,6 +212,9 @@ section {
     width: 809px;
     height: 100px;
 
+
+
+
 }
 
 #subscribe {
@@ -197,6 +229,7 @@ section {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     cursor: pointer;
+
 
 
 
