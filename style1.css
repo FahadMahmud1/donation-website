@@ -210,6 +210,8 @@ section {
     padding-top: 55px;
     width: 809px;
     height: 100px;
+    display: flex;
+    justify-content: center;
 
 
 
@@ -220,7 +222,7 @@ section {
 
     background-color: #FF5959;
     width: 157px;
-    height: 48px;
+    height: 50px;
     border-radius: 0px 5px 5px 0px;
     text-align: center;
     color: #FAFAFA;
@@ -228,6 +230,9 @@ section {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     cursor: pointer;
+    padding-left: 0;
+    /* padding-bottom: 48px; */
+
 
 
 
@@ -237,7 +242,7 @@ section {
 #email {
     border: none;
 
-    width: 275px;
+    width: 270px;
     height: 48px;
     background: #D9D9D9;
     border-radius: 5px 0px 0px 5px;
@@ -247,7 +252,7 @@ section {
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
-    padding-left: 2%;
+
 
 
 }
@@ -281,6 +286,7 @@ span {
     float: left;
     padding-left: 5%;
     margin-left: 2%;
+    margin-bottom: 100px;
 }
 
 .half img {
@@ -321,4 +327,12 @@ span {
     font-size: 20px;
     border: none;
     cursor: pointer;
+}
+
+.gaptil {
+    margin-top: 100px;
+}
+
+.align h1 {
+    margin-top: 100px;
 }
